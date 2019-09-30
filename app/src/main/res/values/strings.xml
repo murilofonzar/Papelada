@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Papelada</string>
+    <string name="emailLogin">E-mail</string>
+    <string name="senhaLogin">Senha</string>
+    <string name="botaoLogin">Login</string>
+    <string name="botaoRegistro">Registre-se</string>
+    <string name="botaoProximo">Próximo</string>
+    <string name="botaoRegistrar">Registrar</string>
+    <string name="title_activity_papelada_menu">PapeladaMenu</string>
+    <string name="title_home">Papelada</string>
+    <string name="title_dashboard">Documentos</string>
+    <string name="title_notifications">Informações</string>
+    <string name="iconPastas">Pastas</string>
+    <string name="iconContratos">Contratos</string>
+    <string name="iconDocumentos">Documentos</string>
+    <string name="iconEscrituras">Escrituras</string>
+    <string name="titleComoFazer">Como Fazer?</string>
+    <string name="titleMinhaPapelada">Minha Papelada</string>
+    <string name="titleEnviarPapelada">Enviar Papelada</string>
+    <string name="titleColoqueDigital">Coloque Sua Digital</string>
+    <string name="titleTireUmaSelfie">Tire uma Selfie!</string>
+    <string name="titleEnvieUmaFoto">Envie seu Documento com Foto</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
